@@ -1,6 +1,6 @@
 {
 	"name": "bragg-cognito-idp",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Bragg middleware for Cognito Userpool triggers",
 	"license": "MIT",
 	"repository": "SimonJang/bragg-cognito-idp",
