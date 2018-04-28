@@ -19,7 +19,11 @@
 		"index.js"
 	],
 	"keywords": [
-		""
+		"AWS",
+		"Cognito",
+		"Userpool",
+		"bragg",
+		"middleware"
 	],
 	"dependencies": {},
 	"devDependencies": {
